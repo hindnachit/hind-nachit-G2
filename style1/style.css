@@ -1,0 +1,107 @@
+
+.white-padding {
+    padding: 20px; ;
+    background-color:white ;
+}
+
+
+.gray-padding {
+    padding: 30px; 
+    background-color: gray; 
+}
+
+
+.yellow-padding {
+    padding: 50px; 
+    background-color: yellow;
+}
+
+body {
+    font-family:Arial, sans-serif ;
+    margin: 0;
+    padding:20px;
+    
+    
+     border: 2px solid red;
+    background: color white; ;
+}
+
+header {
+    padding: 40px; ;
+    text-align: center;
+    color: white;
+}
+
+main {
+    padding: 5px;
+    font-family:Arial, sans-serif ;
+    font-weight:none ;
+    font: size 16px; ;
+}
+
+.separator {
+    border:2px solid red ;
+    width: 100%;
+    margin:10px 0 ; 
+}
+
+.section {
+    padding: 0px;
+}
+
+footer {
+    background-color:white ;
+    border-top:1px solid gray;
+    color:white ;
+    text-align:right;
+    padding: 20px;
+    bottom: 0;
+    width:99,5%;
+    border-left:30px solid rgb(214, 214, 135);
+    border-right:30px solid rgb(214, 214, 135);
+}
+
+.footer-content {
+    max-width:1200px ;
+    margin: 0 auto;
+    color: black;
+    background-color:white ;
+}
+
+footer a {
+    text-decoration: underline;
+    color: gray ;
+}
+
+.centered-image {
+    
+    max-width:100% ; 
+    
+}
+
+.centered-square {
+    text-align: center;
+    padding: 16px;
+    background-color:white ;
+    border: 1PX solid black;
+    margin: 0 auto;
+    width: 300px;
+    
+}
+
+.gray-underline {
+    color: gray;
+    text-decoration:underline ;
+}
+
+.literature-poem {
+    margin: 10px;
+    padding: 10px;
+    width:30% ;
+    box-sizing: border-box;
+}
+
+.literature-poem p {
+    margin:0 ;
+    line-height: 1,5;
+}
